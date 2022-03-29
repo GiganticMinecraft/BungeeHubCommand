@@ -1,0 +1,11 @@
+name: BungeeHubCommand
+main: io.github.gigantincminecraft.bungeehubcommand.BungeeHubCommand
+version: 1
+author: GiganticMinecraft
+commands:
+  hub:
+    description: Teleport to the hub server
+    permission: bungeehubcommand.hub
+permissions:
+  bungeehubcommand.hub:
+    description: Gives permission to use the /hub command

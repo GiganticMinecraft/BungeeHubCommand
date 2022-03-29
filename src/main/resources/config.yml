@@ -1,0 +1,5 @@
+# Name of the server to which players are sent when executing the "hub" command
+hub-server-name: "lobby"
+
+# The message to be shown when a player already connected to the hub server tryed to run the "hub" command.
+already-connected-message: "You are already at the hub server!"
