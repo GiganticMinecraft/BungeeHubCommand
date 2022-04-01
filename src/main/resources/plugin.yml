@@ -1,5 +1,5 @@
 name: BungeeHubCommand
-main: io.github.gigantincminecraft.bungeehubcommand.BungeeHubCommand
+main: io.github.giganticminecraft.bungeehubcommand.BungeeHubCommandPlugin
 version: 1
 author: GiganticMinecraft
 commands:
